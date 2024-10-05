@@ -51,11 +51,4 @@
 </a>
 </div>
 
-<div align="right">
-  
-[🐣 check out my progress on #30nitesofcode !](https://www.codedex.io/@kyr1-a/30-nites-of-code)  
-<br>
-![@kyr1a #30nitesofcode](https://www.codedex.io/api/petStatus?user=kyr1-a)
-
-</div>
 
